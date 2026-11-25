@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.13.4"
+manifest_format = "2.1"
+project_hash = "20be2c0fbc641a1c24f4d538925c39eb3b954d2e"
+
+[[deps.FluidSimJL]]
+path = "."
+uuid = "f7bbdba1-390f-4c7b-86c5-f870885b69f3"
+version = "0.1.0"

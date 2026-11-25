@@ -1,0 +1,5 @@
+#+title: Fluid Sim
+#+author: Colton Quirk
+* Fluid Simulation
+This is an extension of a fluid simulation project I did as part of an Astrophysical Fluid Dynamics class at the University of St Andrews.
+The original project was done in Python but, since I love Julia, I wanted to rewrite the whole thing in Julia.
